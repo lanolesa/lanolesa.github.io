@@ -21,10 +21,10 @@ h1,h2,h3{
     margin:10px;
 }
 .tlo-tabelki{
-    border = "1px";
+    border-collapse:collapse;
+    border: 3px solid white;
     background-color:#333333;
     border-spacing:0;
-    border-collapse:collapse;
     margin:10px;
 }
 .styl-obrazka-1{
@@ -57,4 +57,7 @@ a{
     background-color: #222222;
     margin: 10px;
     border: 1px solid white;
+}
+th,td{
+  border: 2px solid white;
 }
