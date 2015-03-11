@@ -5,7 +5,7 @@
 .kolor-tla-2 {
     background-color:#666668;
     color:#dfdfdf;
-    width: 800px;
+    width: 1000px;
     margin:auto;
 }
 
@@ -55,9 +55,69 @@ a#officjalna {
 a{
 
     background-color: #222222;
-    margin: 10px;
-    border: 1px solid white;
+  text-decoration:none;
 }
 th,td{
   border: 2px solid white;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.clear{
+  float: clear;
+}
+
+.box-200{
+  width: 200px;
+  hight: 200px;
+}
+
+.box-100{
+  width: 100px;
+  hight: 100px
+}
+
+.margin-10 {
+  margin: 10px;
+
+}
+
+.red{
+  background-color:red;
+}
+
+.blue{
+  background-color:blue;
+}
+
+.green{
+  background-color:green;
+}
+
+.menu
+{
+float: left;
+padding: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+font-weight: 800;
+color: yellow;
+font-size: 18px;
+background-color: black;
+font-family: 'Open Sans', sans-serif;
+}
+.menu:hover
+{
+background-color: yellow;
+color: black;
+}
+#linki
+{
+background-color: black;
 }
