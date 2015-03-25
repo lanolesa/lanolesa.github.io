@@ -12,11 +12,9 @@
 .obramowka {
     border:4px solid black;
 }
-
 body{
     font-family:Verdana;
     background-color:#444444;
-    color:white;
     margin:5px;
 }
 h1,h2,h3{
@@ -127,7 +125,7 @@ text-decoration: none;
 background-color: black;
 }
 
-.tr-col {
-  color:white;
+tr {
 
+  color: white;
 }
